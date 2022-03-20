@@ -14,7 +14,7 @@ dataset) you may change the DATASET variable in controller.py and add the locati
 - The functionality for save and loading the generator and critic is not available since this is an intuitive look into the architecture and 
 is created from scratch for the same reason.
 
-- For a view of the results after training on MNIST dataset, kindly load the logs folder in tensorboard.
+- For a view of the results after training on MNIST dataset, kindly view the colab notebook.
 
 # Colab Notebook
 
