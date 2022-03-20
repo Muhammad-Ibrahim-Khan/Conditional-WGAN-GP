@@ -18,8 +18,6 @@ is created from scratch for the same reason.
 
 # Colab Notebook
 
-- The dependencies are pre-loaded
-
 - The notebook is an educational guide into how each element(cell) works and its purpose, the markdown cells also have hyperlinks for one's further exploration into
   this architecture.
   
