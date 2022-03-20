@@ -1,5 +1,5 @@
 # Conditional-WGAN-GP
-From scratch implementation for Conditional WGAN with Gradient Penalty
+From scratch implementation of Conditional WGAN with Gradient Penalty
 
 # Pre-requisites
 Install all required dependencies into your local environment by running the following command
