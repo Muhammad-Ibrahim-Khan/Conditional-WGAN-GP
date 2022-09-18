@@ -23,4 +23,4 @@ is created from scratch for the same reason.
   
 # Acknowledgments
 
-Special thanks to Aladdin Persson who has a YouTube channel on which he briefly explains and develops Machine Learning models.
+Special thanks to [Aladdin Persson](https://www.youtube.com/c/AladdinPersson) who has a YouTube channel on which he briefly explains and develops Machine Learning models.
